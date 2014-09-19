@@ -1,0 +1,1 @@
+Impulse = this.Impulse;
