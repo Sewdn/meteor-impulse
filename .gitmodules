@@ -1,3 +1,3 @@
 [submodule "lib"]
 	path = lib
-	url = git@github.com:luster-io/impulse.git
+	url = git@github.com:Sewdn/impulse.git
