@@ -3,6 +3,6 @@
   "description": "Dynamic Physics Interactions for the Mobile Web. http://impulse.luster.io",
   "homepage": "https://github.com/Sewdn/meteor-impulse",
   "author": "Pieter Soudan",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "git": "https://github.com/Sewdn/meteor-impulse.git"
 }
